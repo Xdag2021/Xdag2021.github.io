@@ -1,0 +1,7 @@
+{
+  "name": "xdag2021",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "bundle exec jekyll serve --trace"
+  }
+}

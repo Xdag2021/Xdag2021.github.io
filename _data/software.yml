@@ -1,0 +1,7 @@
+windows64: https://github.com/XDagger/win-wallet/releases/download/0.3.1/XDagWalletWin_v0.3.1_x64.zip
+windows32: https://github.com/XDagger/win-wallet/releases/download/0.3.1/XDagWalletWin_v0.3.1_x86.zip
+
+android: https://github.com/XDagger/android-wallet/releases/download/release_0.2.7/android_wallet_release_v0.2.7.apk
+
+mac: https://github.com/XDagger/xdag/files/2586967/xdag.0.3.0.zip
+ios: "itms-services://?action=download-manifest&url=itms-services://?action=download-manifest&url=https://xdag.io/assets/apps/manifest.plist"

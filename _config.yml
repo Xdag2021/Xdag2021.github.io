@@ -6,7 +6,7 @@ baseurl: ""
 url: ""
 
 paginate: 6
-paginate_path: 'XDAG-news/page/:num'
+paginate_path: '/:num'
 
 plugins:
   - jekyll-paginate

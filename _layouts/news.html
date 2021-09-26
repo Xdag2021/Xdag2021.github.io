@@ -62,7 +62,7 @@
                 {% if page == paginator.page %}
                 <em>{{ page }}</em>
                 {% elsif page == 1 %}
-                <a href="{{ '/news' | absolute_url }}">{{ page }}</a>
+                <a href="{{ '/' | absolute_url }}">{{ page }}</a>
                 {% else %}
                 <a href="{{ site.paginate_path | absolute_url | replace: ':num', page }}">{{ page }}</a>
                 {% endif %}

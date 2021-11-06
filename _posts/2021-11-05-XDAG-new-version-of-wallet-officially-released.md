@@ -12,7 +12,8 @@ image: "/assets/images/posts/newWallet.jpg"
 ![github star](/assets/images/posts/photo_2021-11-05_14-59-07.jpg)
 
 The new version of XDAG wallet (0.4.0) has been officially released. 
-XDAG's community members can try to download 0.4.0 wallet. 0.4.0 the wallet has been adjusted in terms of design style, adding functions such as QR code, transfer address record, conditional searching transfer details, improving compatibility and user experience.
+XDAG's community members can try to download 0.4.0 wallet. 0.4.0 the wallet has been adjusted in terms of design style, adding functions such as QR code, transfer address record, conditional searching transfer details, improving compatibility and user experience.0.4.0 wallet support Windows、Linux and MAC OS.
+
 
 XDAG's community members can try to download 0.4.0 wallet with this link : https://github.com/XDagger/goXdagWallet/releases
 0.4.0 the wallet has been adjusted in terms of design style, adding functions such as QR code, transfer address record,
